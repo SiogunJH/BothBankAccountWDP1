@@ -1,0 +1,15 @@
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.csproj.AssemblyReference.cache
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.AssemblyInfoInputs.cache
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.AssemblyInfo.cs
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\ProjektWzorkiWDP1\bin\Debug\net6.0\ProjektWzorki.exe
+E:\Studia\Projekty\ProjektWzorkiWDP1\bin\Debug\net6.0\ProjektWzorki.deps.json
+E:\Studia\Projekty\ProjektWzorkiWDP1\bin\Debug\net6.0\ProjektWzorki.runtimeconfig.json
+E:\Studia\Projekty\ProjektWzorkiWDP1\bin\Debug\net6.0\ProjektWzorki.dll
+E:\Studia\Projekty\ProjektWzorkiWDP1\bin\Debug\net6.0\ref\ProjektWzorki.dll
+E:\Studia\Projekty\ProjektWzorkiWDP1\bin\Debug\net6.0\ProjektWzorki.pdb
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.dll
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ref\ProjektWzorki.dll
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.pdb
+E:\Studia\Projekty\ProjektWzorkiWDP1\obj\Debug\net6.0\ProjektWzorki.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Studia\Projekty\KontoBnakowe1WDP1\bin\Debug\net6.0\KontoBankowe1WDP1.exe
+E:\Studia\Projekty\KontoBnakowe1WDP1\bin\Debug\net6.0\KontoBankowe1WDP1.deps.json
+E:\Studia\Projekty\KontoBnakowe1WDP1\bin\Debug\net6.0\KontoBankowe1WDP1.runtimeconfig.json
+E:\Studia\Projekty\KontoBnakowe1WDP1\bin\Debug\net6.0\KontoBankowe1WDP1.dll
+E:\Studia\Projekty\KontoBnakowe1WDP1\bin\Debug\net6.0\ref\KontoBankowe1WDP1.dll
+E:\Studia\Projekty\KontoBnakowe1WDP1\bin\Debug\net6.0\KontoBankowe1WDP1.pdb
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.csproj.AssemblyReference.cache
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.AssemblyInfoInputs.cache
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.AssemblyInfo.cs
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.dll
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\ref\KontoBankowe1WDP1.dll
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.pdb
+E:\Studia\Projekty\KontoBnakowe1WDP1\obj\Debug\net6.0\KontoBankowe1WDP1.genruntimeconfig.cache
